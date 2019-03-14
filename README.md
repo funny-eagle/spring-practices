@@ -1,4 +1,4 @@
-# spring-practice
+# spring-practices
 
 spring, spring cloud practices and samples
 
